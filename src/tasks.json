@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Senior React Developement",
+      "time": "25 May @1400hrs",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "name": "Gymn Training Session",
+      "time": "12 July @1400hrs",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "name": "FIFA Tournament with the boys",
+      "time": "10 January @1000hrs",
+      "reminder": true
+    },
+    {
+      "id": "4",
+      "name": "Cyber Certification Test",
+      "time": "05 November @0800hrs",
+      "reminder": true
+    },
+    {
+      "id": "5",
+      "name": "Project Deployment at Work",
+      "time": "14 August @1600hrs",
+      "reminder": true
+    },
+    {
+      "id": "7d25",
+      "name": "gym",
+      "time": "24fvwtgfbs",
+      "reminder": false
+    }
+  ]
+}
